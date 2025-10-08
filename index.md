@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sam Smiley
+permalink: /
 ---
 
 ## About Me
