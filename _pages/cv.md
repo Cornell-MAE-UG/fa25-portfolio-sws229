@@ -3,12 +3,19 @@ layout: default
 title: Sam Smiley - Curriculum Vitae
 permalink: /cv/
 ---
+
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+<div style="margin-bottom: 1.5em;">
+  <a href="{{ '/assets/Resume.pdf' | relative_url }}" class="btn btn-primary btn-lg" target="_blank" style="margin-bottom: 1em;">Download My Resume (PDF)</a>
+</div>
+
+<div style="border: 1px solid #ccc; border-radius: 8px; overflow: hidden; margin-bottom: 2em;">
+  <iframe src="{{ '/assets/Resume.pdf' | relative_url }}" width="100%" height="700px" style="border: none;"></iframe>
+</div>
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [sws229@cornell.edu](mailto:sws229@cornell.edu) | | | **Phone:** +774 277 7962
 
 ---
 
