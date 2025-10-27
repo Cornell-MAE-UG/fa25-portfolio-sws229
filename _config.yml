@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Sam Smiley
 description              : Sam Smiley - Projects and CV 
-baseurl                  : /fall-2025-portfolio-Smiley/ 
+baseurl                  : /fa25-portfolio-sws229/
 
 # Theme and Style
 theme: jekyll-theme-minimal
