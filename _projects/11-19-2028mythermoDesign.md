@@ -1,16 +1,19 @@
 ---
 layout: project
-title: 2D Design Project
-description: Thermodynamic.
+title: Thermo Portfolio Assignment
+description: Thermodynamic analysis of the F15 fighter jet.
 technologies: [MATLAB, Python]
-image: /assets/images/my2Ddesign.png
+image: /assets/images/thermo_project.png
 ---
 
 
 
-As part of a class project, I created a 2D design of a rigid bar confined within a space of 150cm long and 50cm tall.
+
+As part of a class project, I did an analysis of the F15 fighter jet.
 
 <div style="text-align:center; margin: 2em 0;">
-	<img src="/assets/images/Thermo Portfolio Assignment - Google Docs.pdf" alt="2D Design" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;" />
+  <iframe src="/assets/images/Thermo Portfolio Assignment - Google Docs.pdf" width="100%" height="600px" style="border: 1px solid #ccc; border-radius: 8px;"></iframe>
 </div>
+
+[Download the full assignment (PDF)](/assets/images/Thermo Portfolio Assignment - Google Docs.pdf)
 
