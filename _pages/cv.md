@@ -6,11 +6,12 @@ permalink: /cv/
 ## Curriculum Vitae
 
 <div style="margin-bottom: 1.5em;">
+
   <a href="{{ '/assets/CV Sam.pdf' | relative_url }}" class="btn btn-primary btn-lg" target="_blank" style="margin-bottom: 1em;">Download My Resume (PDF)</a>
 </div>
 
 <div style="border: 1px solid #ccc; border-radius: 8px; overflow: hidden; margin-bottom: 2em;">
-  <iframe src="{{ '/assets/Resume.pdf' | relative_url }}" width="100%" height="700px" style="border: none;"></iframe>
+  <iframe src="{{ '/assets/CV Sam.pdf' | relative_url }}" width="100%" height="700px" style="border: none;"></iframe>
 </div>
 
 
