@@ -5,7 +5,7 @@ description: Thermodynamic analysis of the F15 fighter jet for class project.
 technologies:
   - MATLAB
   - Python
-image: /assets/images/my2Ddesign.png
+file: /assets/images/Thermo Portfolio Assignment - Google Docs.pdf
 ---
 
 As part of a class project, I performed a thermodynamic analysis of the F15 fighter jet. The assignment includes thermodynamic calculations and design considerations.
