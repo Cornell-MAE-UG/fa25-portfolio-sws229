@@ -16,14 +16,8 @@ As part of a class project, I created a 2D design of a rigid bar confined within
 
 
 <div style="margin: 2em 0;">
-	<!-- PDF viewer: replace the PDF path if you place the file elsewhere -->
+	<!-- PDF viewer -->
 	<iframe src="{{ '/assets/images/Staticsbeambending.pdf' | relative_url }}" width="100%" height="720" style="border:1px solid #ccc; border-radius:6px;"></iframe>
 	<p style="text-align:center; margin-top:0.5em;"><a href="{{ '/assets/images/Staticsbeambending.pdf' | relative_url }}" class="button">Download Staticsbeambending.pdf</a></p>
-</div>
-
-<div style="margin: 2em 0;">
-  <!-- PDF viewer: displays Staticsbeambending.pdf -->
-  <iframe src="{{ '/assets/images/Staticsbeambending.pdf' | relative_url }}" width="100%" height="720" style="border:1px solid #ccc; border-radius:6px;"></iframe>
-  <p style="text-align:center; margin-top:0.5em;"><a href="{{ '/assets/images/Staticsbeambending.pdf' | relative_url }}" class="button">Download Staticsbeambending.pdf</a></p>
 </div>
 
