@@ -1,9 +1,9 @@
 ---
 layout: project
 title: 2D Design Project
-description: Rigid bar 2D design project for class.
-technologies: [MATLAB, Python]
+description: Rigid bar 2D design project for Statics Mechanics of Solids.
 image: /assets/images/my2Ddesign.png
+file: /assets/images/Staticsbeambending.pdf
 ---
 
 
@@ -12,5 +12,18 @@ As part of a class project, I created a 2D design of a rigid bar confined within
 
 <div style="text-align:center; margin: 2em 0;">
 	<img src="/assets/images/my2Ddesign.png" alt="2D Design" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;" />
+</div>
+
+
+<div style="margin: 2em 0;">
+	<!-- PDF viewer: replace the PDF path if you place the file elsewhere -->
+	<iframe src="{{ '/assets/images/Staticsbeambending.pdf' | relative_url }}" width="100%" height="720" style="border:1px solid #ccc; border-radius:6px;"></iframe>
+	<p style="text-align:center; margin-top:0.5em;"><a href="{{ '/assets/images/Staticsbeambending.pdf' | relative_url }}" class="button">Download Staticsbeambending.pdf</a></p>
+</div>
+
+<div style="margin: 2em 0;">
+  <!-- PDF viewer: displays Staticsbeambending.pdf -->
+  <iframe src="{{ '/assets/images/Staticsbeambending.pdf' | relative_url }}" width="100%" height="720" style="border:1px solid #ccc; border-radius:6px;"></iframe>
+  <p style="text-align:center; margin-top:0.5em;"><a href="{{ '/assets/images/Staticsbeambending.pdf' | relative_url }}" class="button">Download Staticsbeambending.pdf</a></p>
 </div>
 
