@@ -10,11 +10,6 @@ file: /assets/images/Staticsbeambending.pdf
 
 As part of a class project, I created a 2D design of a rigid bar confined within a space of 150cm long and 50cm tall.
 
-<div style="text-align:center; margin: 2em 0;">
-	<img src="/assets/images/my2Ddesign.png" alt="2D Design" style="max-width: 100%; height: auto; border: 1px solid #ccc; border-radius: 8px;" />
-</div>
-
-
 <div style="margin: 2em 0;">
 	<!-- PDF viewer -->
 	<iframe src="{{ '/assets/images/Staticsbeambending.pdf' | relative_url }}" width="100%" height="720" style="border:1px solid #ccc; border-radius:6px;"></iframe>
